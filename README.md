@@ -12,3 +12,8 @@ $ npm login --registry=https://npm.pkg.github.com/
 // Step 3: Publish
 $ npm publish
 ```
+
+# comment
+
+- Hello, world message on this project ...
+
